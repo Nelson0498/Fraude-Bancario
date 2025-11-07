@@ -250,7 +250,8 @@ elif page == "📊 Análisis del Modelo":
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: gray;'>"
-    "FraudShield AI - Sistema de Detección de Fraude © 2024"
+    "FraudShield AI - Sistema de Detección de Fraude © 2025"
     "</div>", 
     unsafe_allow_html=True
+
 )
